@@ -1,4 +1,4 @@
-# gallery_proj
+Image-gallery
 
 A new Flutter project.
 
